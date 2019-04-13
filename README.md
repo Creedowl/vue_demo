@@ -1,5 +1,9 @@
 # vue_demo
 
+一个简单的vue demo，你可以从中学到如何开发一个简单的vue项目
+
+建议参考[这篇Blog](https://blog.creedowl.com/2019/04/13/vue-demo-instruction/)
+
 ## Project setup
 ```
 yarn install
